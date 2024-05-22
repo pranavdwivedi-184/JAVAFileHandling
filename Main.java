@@ -1,4 +1,3 @@
-import java.io.BufferedReader;
 
 public class Main {
 
@@ -16,6 +15,6 @@ public class Main {
         }
 
         System.out.println(a);
-      
-        }
+
     }
+}
