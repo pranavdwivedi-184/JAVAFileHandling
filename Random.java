@@ -4,5 +4,7 @@ public class Random {
 
         System.out.println(Math.round(Math.ceil(Math.random() * 6)));
 
+        System.out.println("hello world");
+
     }
 }
